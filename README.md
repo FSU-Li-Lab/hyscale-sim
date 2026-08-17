@@ -226,5 +226,5 @@ publication (in preparation) and link to this repository.
 
 ## License
 
-MIT — see `LICENSE`.
+see `LICENSE`.
 
