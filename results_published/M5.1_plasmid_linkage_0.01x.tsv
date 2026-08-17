@@ -1,0 +1,5 @@
+tier	subset	contig_type	assigned	correct	wrong	ambiguous	accuracy_strict	accuracy_adjusted	fdr
+0.01x	all_reads	plasmid	407	294	51	62	0.7224	0.8522	0.1478
+0.01x	all_reads	chromosome	9875	9528	347	0	0.9649	0.9649	0.0351
+0.01x	repeats_excluded	plasmid	407	294	51	62	0.7224	0.8522	0.1478
+0.01x	repeats_excluded	chromosome	9875	9528	347	0	0.9649	0.9649	0.0351
