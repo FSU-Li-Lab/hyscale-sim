@@ -3,8 +3,8 @@ title: "hyscale-sim: simulation framework for barcode-guided single-cell to long
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - family-names: "[SURNAME]"
-    given-names: "[GIVEN NAME]"
-    affiliation: "[INSTITUTION]"
-repository-code: "https://github.com/[USER]/hyscale-sim"
+  - family-names: "Li"
+    given-names: "Xiangpeng"
+    affiliation: "Florida State University"
+repository-code: "https://github.com/FSU-Li-Lab/hyscale-sim"
 license: MIT
