@@ -7,4 +7,5 @@ authors:
     given-names: "Xiangpeng"
     affiliation: "Florida State University"
 repository-code: "https://github.com/FSU-Li-Lab/hyscale-sim"
+DOI: 10.5281/zenodo.21984377
 license: MIT
