@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "hyscale-sim: simulation framework for barcode-guided single-cell to long-read linkage"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+    affiliation: "[INSTITUTION]"
+repository-code: "https://github.com/[USER]/hyscale-sim"
+license: MIT

@@ -1,0 +1,25 @@
+name: hyscale-sim
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  # long-read simulation and consensus
+  - art
+  - art
+  - pbsim3
+  - pbccs
+  - samtools >=1.17
+  # alignment and sequence utilities
+  - minimap2 >=2.17
+  - seqkit
+  - skani
+  - mash
+  # genome quality
+  - checkm2
+  # parallelism
+  - parallel
+  # python
+  - python >=3.9
+  - numpy
+  - scipy
+  - matplotlib

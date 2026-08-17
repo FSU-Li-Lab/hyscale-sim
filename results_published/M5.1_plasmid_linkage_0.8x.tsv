@@ -1,0 +1,5 @@
+tier	subset	contig_type	assigned	correct	wrong	ambiguous	accuracy_strict	accuracy_adjusted	fdr
+0.8x	all_reads	plasmid	6673	5556	380	737	0.8326	0.9360	0.0640
+0.8x	all_reads	chromosome	156399	139504	16895	0	0.8920	0.8920	0.1080
+0.8x	repeats_excluded	plasmid	5302	4547	194	561	0.8576	0.9591	0.0409
+0.8x	repeats_excluded	chromosome	156212	139345	16867	0	0.8920	0.8920	0.1080

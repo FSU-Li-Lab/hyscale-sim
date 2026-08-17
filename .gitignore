@@ -1,0 +1,47 @@
+# simulated reads and references -- far too large for version control
+*.fq
+*.fq.gz
+*.fastq
+*.fastq.gz
+*.fa
+*.fna
+*.fasta
+*.bam
+*.bam.pbi
+*.sam
+*.maf
+*.maf.gz
+*.mmi
+*.msh
+
+# pipeline working directories
+work/
+pacbio/
+pacbio_hifi/
+pacbio_hifi_merged/
+single_cell/
+injected/
+links/
+genome/
+subset_*/
+*.links.tsv.gz
+retained*.tsv.gz
+tight*.tsv.gz
+
+# truth tables are regenerable and one is >500 MB
+truth/longread_truth.tsv
+truth/longread_contig_truth.tsv
+
+# results are regenerable; keep only what a paper needs, added explicitly
+results*/
+
+# logs
+*.log
+nohup.out
+joblog.txt
+
+# environment
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

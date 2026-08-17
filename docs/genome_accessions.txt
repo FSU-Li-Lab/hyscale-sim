@@ -1,0 +1,37 @@
+# genomes in the 36-member benchmark community
+GCF_003112245.1_ASM311224v1_genomic	Escherichia coli O111 str. RM9322 chromosome
+GCF_049569765.1_ASM4956976v1_genomic	Escherichia coli O111:NM strain 14614 chromosome
+GCA_000167875.2_ASM16787v2_genomic	Escherichia coli E110019 chromosome
+GCF_000240185.1_ASM24018v2_genomic	Klebsiella pneumoniae subsp. pneumoniae HS11286 chromosome
+GCF_001022135.1_ASM102213v1_genomic	Phytobacter ursingii strain CAV1151 chromosome
+GCF_011045835.1_ASM1104583v1_genomic	Proteus terrae subsp. cibarius strain ZN2 chromosome
+GCF_047344975.1_ASM4734497v1_genomic	Escherichia coli HB101 chromosome
+GCF_008124285.1_ASM812428v1_genomic	Escherichia coli O16:H48 strain PG20180060 chromosome
+GCF_000005845.2_ASM584v2_genomic	Escherichia coli str. K-12 substr. MG1655
+GCF_001559675.1_ASM155967v1_genomic	Escherichia coli K-12 strain K-12 C3026 chromosome
+GCF_000968515.1_ASM96851v1_genomic	Escherichia coli VR50 chromosome
+GCF_000009065.1_ASM906v1_genomic	Yersinia pestis CO92
+GCF_041937165.1_UNISA_Eadel_1.0_genomic	Enterobacter adelaidei strain ECC3473 chromosome
+GCF_041320245.1_ASM4132024v1_genomic	Citrobacter meridianamericanus strain OT146 chromosome
+GCF_048568405.1_ASM4856840v1_genomic	Enterobacter intestinihominis strain JNQH618 chromosome
+GCF_030505655.1_ASM3050565v1_genomic	Klebsiella ornithinolytica strain RoM27LC23 chromosome
+GCF_022369495.1_ASM2236949v1_genomic	Proteus penneri strain S178-2 chromosome
+GCF_018128425.1_ASM1812842v1_genomic	Citrobacter sedlakii strain 3347689II chromosome
+GCF_000264765.2_ASM26476v2_genomic	Edwardsiella anguillarum ET080813 strain 80813 chromosome
+GCF_004684345.1_ASM468434v1_genomic	Citrobacter tructae strain SNU WT2 chromosome
+GCF_036898185.1_ASM3689818v1_genomic	Providencia huaxiensis strain Z29CR2279 chromosome
+GCF_023374935.1_ASM2337493v1_genomic	Citrobacter portucalensis strain Cf7303 chromosome
+GCF_009649915.1_ASM964991v1_genomic	Kluyvera intermedia strain N2-1 chromosome
+GCF_030315915.2_ASM3031591v2_genomic	Providencia zhijiangensis strain D4759 chromosome
+GCF_041953975.1_ASM4195397v1_genomic	Providencia sp. SKLX146130 chromosome
+GCF_949794035.1_EBP3064_genome_genomic	Serratia proteamaculans strain EBP3064 isolate EBP3064 chromosome EBP3064_c1
+GCF_021278985.1_ASM2127898v1_genomic	Citrobacter rodentium NBRC 105723 = DSM 16636 chromosome
+GCF_024224615.1_ASM2422461v1_genomic	Atlantibacter subterraneus strain LH84-a chromosome
+GCF_030053895.1_ASM3005389v1_genomic	Trabulsiella odontotermitis strain TBY01 chromosome
+GCF_035747985.1_ASM3574798v1_genomic	Providencia stuartii strain 41 chromosome
+GCF_039718975.1_ASM3971897v1_genomic	Enterobacter chuandaensis strain E20191216 chromosome
+GCF_905331265.2_AI2999v1_cpp_genomic	Enterobacter cloacae isolate 1382 chromosome main
+GCF_001277215.2_ASM127721v2_genomic	Cronobacter malonaticus LMG 23826 chromosome
+GCF_020150375.1_ASM2015037v1_genomic	Hafnia paralvei strain AVS0177 chromosome
+GCF_023517775.1_ASM2351777v1_genomic	Mixta hanseatica isolate X22927 chromosome
+GCF_049942935.1_z1159_genomic	Franconibacter helveticus 1159 chromosome
