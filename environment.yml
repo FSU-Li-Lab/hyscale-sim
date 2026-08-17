@@ -5,7 +5,6 @@ channels:
 dependencies:
   # long-read simulation and consensus
   - art
-  - art
   - pbsim3
   - pbccs
   - samtools >=1.17

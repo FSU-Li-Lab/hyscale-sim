@@ -33,7 +33,10 @@ truth/longread_truth.tsv
 truth/longread_contig_truth.tsv
 
 # results are regenerable; keep only what a paper needs, added explicitly
-results*/
+results_series/
+results_tight/
+results_t10/
+results_detect*/
 
 # logs
 *.log
